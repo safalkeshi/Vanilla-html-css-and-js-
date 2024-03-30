@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=Reddit+Mono:wght@200..900&display=swap');
+/* :root{
+    
+} */
+*{
+    margin: auto;
+    padding: auto;
+}   
+
+#navbar1{
+   display: flex;
+}
+
+a {
+    text-decoration: none;
+    width: 100%;
+    display: inline;
+    align-items: center;
+}
